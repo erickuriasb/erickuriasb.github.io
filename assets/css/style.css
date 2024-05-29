@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #023269;
 }
 
 .overlay-mf {
@@ -110,7 +110,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .paralax-mf {
@@ -472,7 +472,7 @@ a:hover {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(2, 50, 105, 0.95);
   padding: 12px 0;
 }
 
@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #023269;
 }
 
 footer .copyright {
