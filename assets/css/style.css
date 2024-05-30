@@ -214,7 +214,7 @@ a:hover {
 
 /*------/ Socials /------*/
 .socials {
-  padding: 1.5rem 0;
+  padding: 1rem 0;
 }
 
 .socials ul li {
@@ -224,7 +224,7 @@ a:hover {
 .socials .ico-circle {
   height: 40px;
   width: 40px;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
